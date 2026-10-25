@@ -12,6 +12,7 @@ Endereço base: `https://lucasfonseca42-droid.github.io/mewrpg-imagens/`
 | `cidades/` | Imagem de cada cidade dos pop-ups da Home, recorte 16:9, 736 x 414 px, JPEG |
 | `regioes/` | Imagem de cada card de região da Home, recorte 16:9, 736 x 414 px, JPEG |
 | `locais/` | Imagem de cada local dos pop-ups da Home (fora as cidades), recorte 16:9, 736 x 414 px, JPEG |
+| `icones/` | Ícones do fórum; `favicon-mew.png` é o ícone da aba do navegador (Mew, 120 x 112 px, PNG) |
 
 Regras: nomes em minúsculas e sem espaço (`cidade-liyue.jpg`); nunca reutilize um
 nome com outra imagem sem avisar (o navegador guarda cache); para trocar uma
