@@ -14,6 +14,7 @@ Endereço base: `https://lucasfonseca42-droid.github.io/mewrpg-imagens/`
 | `locais/` | Imagem de cada local dos pop-ups da Home (fora as cidades), recorte 16:9, 736 x 414 px, JPEG |
 | `pontos/` | Imagens dos pontos de interesse das postagens de local (`<regiao>-<ponto>.webp`) |
 | `icones/` | Ícones do fórum; `favicon-mew-128.png` é o ícone da aba do navegador (rosto do Mew num círculo roxo, 128 x 128 px, PNG) |
+| `telas/` | Imagens das telas do fórum; `portal-visitante.jpg` é o fundo do login, do registro e do pop-up de visitante (portal nas nuvens, 1080 x 812 px, JPEG) |
 
 Regras: nomes em minúsculas e sem espaço (`cidade-liyue.jpg`); nunca reutilize um
 nome com outra imagem sem avisar (o navegador guarda cache); para trocar uma
